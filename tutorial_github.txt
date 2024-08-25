@@ -1,4 +1,3 @@
 ini adalah cara menambah file baru di github
 ini adalah cohtoh penambahan baris baru
-ini adalah cohtoh pengurangan baris baru
-ini adalah cohtoh perubahan baris baru
+ini adalah cohtoh perubahan baris 
